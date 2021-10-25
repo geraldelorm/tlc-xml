@@ -17,7 +17,7 @@
             <others>
                 <read>4</read>
                 <write>2</write>
-                <execute>1</execute>
+                <execute>0</execute>
             </others>
         </permissions>
         <ownership>root</ownership>
