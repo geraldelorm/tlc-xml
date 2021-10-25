@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<unixFileSystem>
+    <file type="directory">
+        <name>home</name>
+        <size unit="MB">1.5</size>
+        <permisions>
+            <user>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </user>
+            <group>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </group>
+            <others>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </others>
+        </permisions>
+        <ownership>root</ownership>
+        <creationDate>Oct 21</creationDate>
+        <inodeNum>1njkd8798dsh</inodeNum>
+    </file>
+
+    <file type="file">
+        <name>intro.xml</name>
+        <size unit="GB">2.1</size>
+        <permisions>
+            <user>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </user>
+            <group>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </group>
+            <others>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </others>
+        </permisions>
+        <ownership>gerald</ownership>
+        <creationDate>Dec 30</creationDate>
+        <inodeNum>87hsjhsw6</inodeNum>
+    </file>
+
+    <file type="link">
+        <name></name>
+        <size unit="GB">0.1</size>
+        <permisions>
+            <user>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </user>
+            <group>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </group>
+            <others>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </others>
+        </permisions>
+        <ownership>gerald</ownership>
+        <creationDate> Jan 01</creationDate>
+        <inodeNum>8ysghj6673</inodeNum>
+    </file>
+
+    <file type="device">
+        <name></name>
+        <size unit="KB">100</size>
+        <permisions>
+            <user>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </user>
+            <group>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </group>
+            <others>
+                <read>4</read>
+                <write>2</write>
+                <execute>1</execute>
+            </others>
+        </permisions>
+        <ownership>root</ownership>
+        <creationDate> Apr 30</creationDate>
+        <inodeNum>897shdshyut</inodeNum>
+    </file>
+</unixFileSystem>
