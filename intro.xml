@@ -3,7 +3,7 @@
     <file type="directory">
         <name>home</name>
         <size unit="MB">1.5</size>
-        <permisions>
+        <permissions>
             <user>
                 <read>4</read>
                 <write>2</write>
@@ -19,7 +19,7 @@
                 <write>2</write>
                 <execute>1</execute>
             </others>
-        </permisions>
+        </permissions>
         <ownership>root</ownership>
         <creationDate>Oct 21</creationDate>
         <inodeNum>1njkd8798dsh</inodeNum>
